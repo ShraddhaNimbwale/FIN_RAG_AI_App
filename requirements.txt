@@ -1,0 +1,14 @@
+langchain>=0.1.0
+langchain-community>=0.0.13
+langchain-core>=0.1.10
+langchain-text-splitters>=0.0.1
+langchain-google-genai>=0.0.5
+faiss-cpu>=1.7.4
+streamlit>=1.29.0
+python-dotenv>=1.0.0
+pyPDF2>=3.0.0
+python-magic>=0.4.27
+# python-magic-bin>=0.4.14; sys_platform == 'win32' or sys_platform == 'darwin'
+typing-extensions>=4.8.0
+pydantic>=2.5.2
+rich>=13.6.0
